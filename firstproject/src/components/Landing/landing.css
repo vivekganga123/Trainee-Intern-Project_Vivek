@@ -1,0 +1,84 @@
+.landing-top{
+    background-color: #668fff;
+    height:40px;
+    display: flex;
+    align-items: center; 
+
+}
+.btn1{
+    margin-left: 1160px;
+}
+.icon{
+    background-color: #1e22ff;
+    width:200px;
+    height:40px;
+    margin-top:-40px;
+}
+p{
+    margin-top:-35px;
+    margin-left: 40px;
+    color: white;
+}
+svg{
+    margin-top: 3px;
+    color: white;
+    width:30px;
+    height: 40px;
+}
+.menu{
+    background-color: #463bfa;
+    width:200px;
+    height:650px;  
+}
+.pack{
+    margin-bottom:-600px;
+    margin-left:-30%;
+
+}
+.users-background{
+    background-color:#d2e0f5;
+    margin-top:-700px;
+    margin-left:200px;
+    height:650px;
+}
+.para1{
+    color: black;
+}
+.user-table{
+    margin-top: -610px;
+    background-color: white;
+    width: 80%;
+    margin-left: 233px;}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+svg{
+    color:black
+  }
+  .sidemenu{
+    background-color: blue;
+        height: 650px;
+  }
+.Form-Image{
+    display:flex;
+    width:25px;
+    height:25px;
+    flex-direction:row;
+   
+}
+.Profile-Image{
+    width:50px;
+    height:50px;
+}

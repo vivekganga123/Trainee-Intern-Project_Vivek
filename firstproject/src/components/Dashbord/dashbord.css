@@ -1,0 +1,95 @@
+.component1{
+    background-color:#668fff;
+    height:50px;
+}
+.component2{
+    background-color: #1e22ff;
+    width: 15%;
+    height:700px;
+    margin-top:-85px;
+}
+.component3{
+    background-color:#d2e0f5;
+    
+    margin-left:205px;
+    margin-top:-77%;
+    height:598px;
+}
+.component4{
+    background-color: white;
+    width: 70%;
+    margin-left:300px;
+    margin-top:-550px;
+    height: 450px;
+}
+.para1{
+    margin-left: 90px;
+    margin-top: 50px;
+    
+}
+.form{
+    margin:40px;
+}
+.form2{
+    margin-left: 500px;
+    margin-top:-410px;
+}
+.submit{
+    margin-left: 170px;
+
+}
+.listlogo{
+    width:2%;
+    height:90px
+}
+.Logbutton{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(173,88,239);
+    font-size: 10px;
+    padding: 1em 3em;
+    border-radius: 50px;
+    width:30px;
+    margin-left:120px;
+}
+.add{
+    padding:20px;
+}
+.p-add{
+    padding:20px;
+}
+.menu-1{
+    margin-left:-270px;
+    margin-top: -450px;
+    width:100px;
+}
+input{
+    background-color: #f2f2f2
+}
+.right{
+    margin-left:540px;
+    margin-top: -430px;
+    
+}
+.addres{
+    padding:5%;
+    width:140px
+}
+input{
+    display:flex;
+    padding:5px;
+   
+}
+
+    input[type=submit] {
+        background-color:  #990099;
+        border: none;
+        text-decoration: none;
+        color: white;
+        padding: 10px 25px;
+        margin-left: 85%;
+        margin-top:-40px;
+        cursor: pointer;
+        border-radius:20px;
+        
+     }
