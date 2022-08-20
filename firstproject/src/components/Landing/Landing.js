@@ -4,8 +4,10 @@ import "./landing.css"
 import {Link} from "react-router-dom"
 import {useState,useEffect} from "react"
 import {images} from "../../Assets/Images2/Index"
+// import Pagination from "./pagination";
 
 function Landing(){
+  
     const[data,getData]=useState([])
     const URL = 'https://dummyjson.com/users';
 
@@ -34,7 +36,7 @@ function Landing(){
 
               </div>
             <div className="btn1">
-                <Link to ="/dashboard"><button type="button" class="btn btn-primary">ADD USER</button></Link> <button type="button" class="btn btn-primary">LOG OUT</button>
+                <Link to ="/dashboard"><button type="button" class="btn btn-primary">ADD USER</button></Link> <Link to ="/login"><button type="button" class="btn btn-primary">LOG OUT</button></Link>
                 </div>
              </div>
             <div className="icon">
